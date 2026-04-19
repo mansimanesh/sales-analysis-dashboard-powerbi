@@ -37,7 +37,8 @@ This project presents an interactive Sales Analysis Dashboard built using Power 
 
 # How to Use
 
-1. Download the `.pbix` file
+1. Download the
+[Download Power BI File](Sales_Analysis.pbix) file
 2. Open using Power BI Desktop
 3. Interact with filters and visuals
 
